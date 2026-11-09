@@ -13,6 +13,25 @@ should be maintained in another secure solution/tool
 database backup  
 passwords  
 Configuration  
+##################################################################
+
+Basic commands to learn
+git clone
+git pull
+git fetch
+git status
+git add
+git commit
+git branch
+git checkout
+git checkout -b
+git push
+
+git log
+git revert
+git merge
+git rebase
+git stash
 
 
 ##################################################################
