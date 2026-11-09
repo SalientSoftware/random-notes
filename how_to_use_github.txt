@@ -1,0 +1,33 @@
+## How to use Github
+
+
+Go to: github.com
+  Click Sign up
+    Signup using Google
+    OR email, username, password
+  OTP will be sent to email
+
+
+To create new repository
+From:github.com/dashboard
+  Top right (+)
+  New repository
+    give repository name
+    Description
+    Visibility - Public/Private
+    Click create
+
+
+
+
+Install git on windows
+https://git-scm.com/install/windows
+
+ Choosing the default editor used by Git, Which editor you like Git to use?
+  Select option from drop down -> Use Notepad as Git's default editor
+  OR
+  Use Visual Studio Code as Git's default editor
+
+To verify, open your terminal (Command Prompt or PowerShell)
+git --version
+
