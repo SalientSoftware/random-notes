@@ -3,7 +3,7 @@ Petals-Neyyattinkara, Paris-Neyyattinkara, Jewellery-Kaliyakkavilai
 1) check directory "img"
 2) is "system/cache" needed?
 ---------------------------------------------------------
-hrms-oilpalm are these needed? : 
+hrms-oilpalm are these needed? :
 system/cache
 css1
 js1
@@ -17,7 +17,7 @@ project_backups
 rti_data
 uploads
 ---------------------------------------------------------
-hs-v7 are these needed? : 
+hs-v7 are these needed? :
 application/mvc_hs_20062026.zip
 hs_mvc_28062025.zip
 vendor.zip
@@ -39,7 +39,7 @@ test_datetimepicker.html
 application\views\vendor\mpdf\mpdf\ttfonts
 application\models\vendor\mpdf\mpdf\ttfonts
 ---------------------------------------------------------
-inacle-new-version are these needed? : 
+inacle-new-version are these needed? :
 application\models session_db.zip
 application\models with MY_Model.zip
 application\views.zip
@@ -54,7 +54,7 @@ sip_mail_downloads
 
 vendor\mpdf\mpdf\ttfonts
 ---------------------------------------------------------
-inacle-euin-new-version are these needed? : 
+inacle-euin-new-version are these needed? :
 customer_mail_downloads
 data
 db_backup
@@ -66,23 +66,36 @@ uploads
 
 vendor/mpdf/mpdf/ttfonts
 ---------------------------------------------------------
-
+estate are these needed? :
+welcome
+db_backup
+downloads
+project_backups
 ---------------------------------------------------------
-
+salient-inventory are these needed? :
+cgi-bin
+error_log
+untitled
 ---------------------------------------------------------
-
+inacle-api-new-version are these needed? :
+application/controllers.zip
+---------------------------------------------------------
+app-inacle are these needed? :
+application/app_report_incale_mvc_07072025.zip
+cgi-bin
+---------------------------------------------------------
 ===========================================================
 ===========================================================
 https://drive.google.com/drive/folders/1jYf1RW-OrdI1-3WbXIBxW9kUIDzd27am
 
-[DONE]hrms (oilpalm 09112026)                   517.7MB
-[DONE]hs_v7 (09112026)                          296.1MB
-[DONE]inacle_new_version (09112026)             110.2MB
+hrms (oilpalm 09112026)                   517.7MB
+hs_v7 (09112026)                          296.1MB
+inacle_new_version (09112026)             110.2MB
 inacle_euin_new_version (09112026)        77.8MB
 estate (09112026)                         127.1MB
 salientinventory (09112026)               23.6MB
 inacle_api_new_version (09112026)         2.6MB
 app.inacle.co.in (09112026)               739KB
-[DONE]Jewellery_Kaliyakkavilai (09112026) 5.2MB
-[DONE]Petals_Neyyattinkara (09112026)     5.4MB
-[DONE]Paris_Neyyattinkara (09112026)      4.4MB
+Jewellery_Kaliyakkavilai (09112026) 5.2MB
+Petals_Neyyattinkara (09112026)     5.4MB
+Paris_Neyyattinkara (09112026)      4.4MB
