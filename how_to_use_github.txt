@@ -31,3 +31,13 @@ https://git-scm.com/install/windows
 To verify, open your terminal (Command Prompt or PowerShell)
 git --version
 
+Click Profile icon on top-right
+Select Settings
+OR go to https://github.com/settings/profile
+
+
+Left side navigation:
+Under access section
+SSH and GPG keys
+Credentials
+Developer Settings -> personal access token 
