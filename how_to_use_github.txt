@@ -45,12 +45,11 @@ Developer Settings -> personal access token
 ======================
 
 git config --global core.autocrlf false
+git config --global user.email "sgirishmr@gmail.com"
+git config --global user.name "SalientSoftware"
 
 git clone https://github.com/SalientSoftware/Paris-Neyyattinkara.git
 Authenticate: Browser or Token
-
-git config --global user.email "sgirishmr@gmail.com"
-git config --global user.name "SalientSoftware"
 
 Add files
 
