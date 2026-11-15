@@ -1,0 +1,3 @@
+Petals-Neyyattinkara, Paris-Neyyattinkara, Jewellery-Kaliyakkavilai
+1) check directory "img" in
+2) is "system/cache" needed?
